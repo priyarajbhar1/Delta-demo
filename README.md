@@ -2,7 +2,7 @@
 This repository is created for demo.
 
 #Teacher
-shrddha khapra
+shraddha khapra
 
 
 #student
