@@ -1,9 +1,9 @@
 # Delta-demo
 This repository is created for demo.
 
-#Teacher
+# Teacher
 shraddha khapra
 
 
-#student
+# student
 Delta student
